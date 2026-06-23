@@ -1,0 +1,8 @@
+Model Information:
+* title:	loft(2) FREE interior
+* source:	https://sketchfab.com/3d-models/loft2-free-interior-77e04a00deec4bcc926e521b589f3d84
+* author:	dasy444 (https://sketchfab.com/dasy444)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
